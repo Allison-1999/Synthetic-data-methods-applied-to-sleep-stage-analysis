@@ -5,4 +5,15 @@ Synthetic data - Solve the lack of Sleep EEG and ECG data.
 - Working with synthetic data will not decrease classification performance of sleep staging, and  could improve classification performance. 
 - For practical studies when the sample size is small 
 
+## pre-processing
+pre-processing.m
+
+## generate synthetic data
+- Adding Gaussian noise noise.m
+- Using surrogates surrogate.m
+
+## test
+test.m
+
+
 
