@@ -1,4 +1,4 @@
-# Synthetic-data-methods-applied-to-sleep-stage-analysis-
+# Synthetic-data-methods-applied-to-sleep-stage-analysis
 Sleep apnea: A disease marked by abnormal breathing during sleep. 
 Sleep EEG and ECG data is not easy to obtain, and there are a lot of artefacts. 
 Synthetic data - Solve the lack of Sleep EEG and ECG data. 
